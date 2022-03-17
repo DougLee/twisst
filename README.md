@@ -1,4 +1,4 @@
-# Twisst: Topology weightying by iterative sampling of sub-trees
+# Twisst: Topology weighting by iterative sampling of sub-trees
 
 Topology weighting is a means to quantify relationships between taxa that are not necessarily monophyletic. It's a simple, descriptive method, designed for exploring how relationship vary across the genome using population genomic data.
 
